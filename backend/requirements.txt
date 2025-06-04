@@ -1,0 +1,13 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+djongo
+django-cors-headers
+gunicorn
+Django>=4.0
+djangorestframework
+djongo
+pymongo
+djangorestframework-simplejwt
+django-cors-headers
+
